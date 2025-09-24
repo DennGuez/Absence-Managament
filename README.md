@@ -25,7 +25,7 @@ This project is a web application to manage employee absences on an annual calen
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/DennGuez/Absence-Managament.git
 
 # Install dependencies
 npm install
